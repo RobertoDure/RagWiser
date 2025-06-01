@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 import static ie.com.rag.Constants.PROMPT;
 
 @RestController
-@RequestMapping("/api/question")
+@RequestMapping("/api/rag")
 public class RagWiserController {
 
     private final ChatModel chatModel;

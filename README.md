@@ -70,7 +70,7 @@ Parameters:
 
 #### Ask a Question
 ```
-GET /api/question?question=YOUR_QUESTION_HERE
+GET /api/rag?question=YOUR_QUESTION_HERE
 ```
 Parameters:
 - `question`: The question to be answered (default: "List all the Articles in the Irish Constitution")
