@@ -42,3 +42,6 @@ HELP.md
 mvnw
 mvnw.cmd
 
+# Recto files
+/frontend/node_modules
+frontend/package-lock.json
