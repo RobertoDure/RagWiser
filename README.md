@@ -29,6 +29,7 @@ RagWiser uses React for its user interface, providing a simple and intuitive way
 - **PostgreSQL with pgvector extension**
 - **Docker**
 - **OpenAI GPT-4**
+- **React**
 
 ## Getting Started
 
@@ -37,6 +38,7 @@ RagWiser uses React for its user interface, providing a simple and intuitive way
 - Java Development Kit (JDK) 21
 - Docker and Docker Compose
 - OpenAI API Key
+- NodeJS
 
 ### Setup and Installation
 
