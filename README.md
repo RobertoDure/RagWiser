@@ -15,6 +15,12 @@ RagWiser uses Spring AI and PGVector to create an advanced document question-ans
 - **Spring AI Integration**: Leverages Spring AI for vector stores and LLM integration
 - **Docker Support**: Containerized PostgreSQL with pgvector extension
 
+## UI 
+RagWiser uses React for its user interface, providing a simple and intuitive way to interact with the RAG system. The UI allows users to upload PDF documents, ask questions, and view answers in a user-friendly manner.
+
+
+![RagWiser UI Screenshot](docs/Screenshot.jpg)
+
 ## Technology Stack
 
 - **Java 21**
@@ -36,7 +42,7 @@ RagWiser uses Spring AI and PGVector to create an advanced document question-ans
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RagWiser.git
+   git clone https://github.com/RobertoDure/RagWiser.git
    cd RagWiser
    ```
 
