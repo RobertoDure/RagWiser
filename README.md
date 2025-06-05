@@ -61,11 +61,17 @@ RagWiser uses React for its user interface, providing a simple and intuitive way
    docker-compose up -d
    ```
 
-4. Build and run the application:
+4. Build and run backend springboot application:
    ```bash
    ./mvnw spring-boot:run
    ```
-
+5. Run frontend react application:
+   ```bash
+    cd frontend
+    npm install
+    npm start
+   ```
+   
 ### API Endpoints
 
 #### Upload a PDF Document
