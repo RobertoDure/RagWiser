@@ -62,8 +62,8 @@ RagWiser uses React for its user interface, providing a simple and intuitive way
     
 3.    Ensure Ollama is running with the desired model. You can start it with:
    ```bash
-    ollama run nomic-embed-text
-    ollama run llama3
+   ollama run nomic-embed-text
+   ollama run llama3
    ```
 
 4. Start the PostgreSQL database with pgvector:
