@@ -140,7 +140,7 @@ spring:
    application:
       name: ics
    datasource:
-      url: jdbc:postgresql://localhost:5432/rag_db_ollama
+      url: jdbc:postgresql://localhost:5432/rag_db
       username: postgres
       password: postgres
    ai:
@@ -180,4 +180,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Spring AI Team for their excellent framework.
 - PostgreSQL and pgvector for vector storage capabilities.
-- Ollama models.
+- Ollama free models.
